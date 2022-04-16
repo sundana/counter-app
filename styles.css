@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(108, 108, 167);
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	padding: 0;
+	margin: 0;
+	height: 100vh;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.text-tengah {
+	text-align: center;
+}
+
+#hasil {
+	font-size: 2.5rem;
+}
+
+button {
+	background-color: lightblue;
+	padding: 10px;
+	cursor: pointer;
+}
